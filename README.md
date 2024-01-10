@@ -1,7 +1,8 @@
  								CODE CONTENT
-Employee Salary Calculator 
 
-Interface
+      Employee Salary Calculator 
 
-FactoryPattern
+      Interface
+
+      FactoryPattern
 
